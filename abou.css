@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(mishaal-zahed-XWvqV3AwXVs-unsplash.jpg);
+    
+    background-repeat: no-repeat;
+    
+    background-size: 100%;
+
+    
+}
+.main,h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    /* text-shadow: 4px 4px 2px rgba(0,0,0,0.6); */
+    text-align: left;
+    margin-top: 110px;
+    margin-left: 30px;
+    font-size: 40px;
+    color: rgb(27, 27, 27);
+    font-style: italic;
+    font-weight: lighter;
+    transition: 3ms;
+
+    
+
+}
+.main,h1:hover{
+
+    background-color: transparent;
+    -webkit-text-stroke: 1px rgb(121, 90, 85);
+}
+.desc{
+    margin-top: 60px;
+    margin-left: 30px;
+    
+}
+.descrip{
+   color: rgb(78, 62, 50);
+   font-size: 19px;
+   
+}
+.order{
+    margin-top: 70px;
+    margin-left: 30px;
+    
+}
+.ok{
+    height: 40px;
+    width: 150px;
+    border-radius: 40px;
+    word-spacing: 1px;
+    background-color: rgb(211, 63, 63);
+   
+}
+
